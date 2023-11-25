@@ -1,22 +1,24 @@
-# Arise 2.0 - Minecraft Anti Cheat
+# AriseAntiCheat - Guardian of Minecraft
+
+Welcome to AriseAntiCheat, your reliable Minecraft companion armed with checks to maintain order on your server!
 
 ## Overview
 
-It's not just an anticheat; it's a meticulously crafted masterpiece. The code, though currently obfuscated, speaks volumes about the dedication invested in its creation. The decision to keep it obfuscated is driven by a desire to safeguard against potential code theft.
+This anticheat isn't just your average tool; it's been carefully crafted with dedication. The code is currently kept low-key—not to show off but to ward off any prying eyes.
 
-AriseAntiCheat is not just powerful but also free—there's no "pro" version to worry about. The configuration options offer you control over enabled checks, violations, and the decision-making process regarding punishments. While the current feature set is robust, future plans may include additional configurations, adding even more flexibility to your server management.
+AriseAntiCheat isn't just powerful; it's free. No fancy "pro" version to worry about. You decide what checks are active, how many strikes lead to trouble, and if trouble is worth a timeout. While the current setup is solid, future plans may bring more options.
 
 ## Testing and Focus
 
-Flight checks are top-notch—every instance triggers a flag. However, the absence of a ground speed check is intentional. Developing one would be time-consuming, and, currently, the focus is on academic commitments.
+Flight checks are solid; someone tries to fly, and we're there to flag it. No ground speed check yet—why? It's time-consuming, and currently, the focus is on academic commitments.
 
-## Enjoy the Craft
+## Let's Dive In
 
-I hope you relish the experience AriseAntiCheat brings to your Minecraft world. Don't forget the essentials: ensure both PacketAPI and AriseAC are snugly placed in your plugins folder. Without them, the anticheat won't spread its protective wings.
+Enjoy using AriseAntiCheat! Don't forget the basics: place both PacketAPI and AriseAC in your plugins folder. Without them, the anticheat might decide to take a day off.
 
-Feel free to harness the power of PacketAPI, but if you extend its use beyond personal boundaries, a simple nod in the form of proper credits would be appreciated.
+And if you decide to play with PacketAPI outside your personal space, toss some credits our way. It's the respectful thing to do.
 
-*Both plugins gracefully support the /reload command.*
+*Both plugins are compatible with the /reload command.*
 
 ## Supported Checks
 
