@@ -10,7 +10,8 @@ AriseAntiCheat isn't just powerful; it's free. No fancy "pro" version to worry a
 
 ## Testing and Focus
 
-Flight checks are solid; someone tries to fly, and we're there to flag it. No ground speed check yet—why? It's time-consuming, and currently, the focus is on academic commitments.
+All checks (especially Flights) are really; someone tries to cheat, and we're there to flag it. No ground speed check yet—why? It's time-consuming, and currently, the focus is on academic commitments.
+I implemented 3 reach checks (First two for players, third for mobs), and all three are made to not false flag.
 
 ## Let's Dive In
 
@@ -84,3 +85,5 @@ And if you decide to play with PacketAPI outside your personal space, toss some 
 
 ### WallHit
 - A
+
+_If you find any issue please post them on "issues"_
