@@ -1,59 +1,86 @@
-# AriseAntiCheat
-Minecraft Anticheat with many checks developed!
+# AriseAntiCheat - Minecraft Guardian
 
-It's a highly comprehensive anticheat, albeit currently obfuscated, primarily due to the extensive time investment in its development. I'm cautious about code theft, hence the obfuscation—for now, at least. The anticheat remains entirely free, with no "pro" version available.
+Welcome to AriseAntiCheat, your vigilant Minecraft companion equipped with a plethora of checks to keep your server secure!
 
-You have the flexibility to configure enabled checks, violations, and determine whether a check should result in punishment. However, as of now, that's the extent of the customization options. While I may consider adding more configurations in the future, it's not currently part of my plans.
+## Overview
 
-Based on my testing, every instance of flight triggers a flag. However, there's a lack of a ground speed check, as creating one would be time-consuming, and my current focus is on school commitments.
+It's not just an anticheat; it's a meticulously crafted masterpiece. The code, though currently obfuscated, speaks volumes about the dedication invested in its creation. The decision to keep it obfuscated is driven by a desire to safeguard against potential code theft.
 
-I hope you find my creation enjoyable—a small masterpiece in its own right! Please remember to place both PacketAPI and AriseAC in the plugins folder; otherwise, the anticheat won't function correctly. You are free to use PacketAPI, but if utilized for purposes other than personal use, kindly provide proper credits.
+AriseAntiCheat is not just powerful but also free—there's no "pro" version to worry about. The configuration options offer you control over enabled checks, violations, and the decision-making process regarding punishments. While the current feature set is robust, future plans may include additional configurations, adding even more flexibility to your server management.
 
+## Testing and Focus
 
-*Both the plugins support /reload command.
+Flight checks are top-notch—every instance triggers a flag. However, the absence of a ground speed check is intentional. Developing one would be time-consuming, and, currently, the focus is on academic commitments.
 
-Current supported checks:
+## Enjoy the Craft
 
-  Aim:
-    A
-  AutoClicker:
-    A, B, C
-  Criticals:
-    A
-  FastStair:
-    A
-  Flight:
-    A, B, C, D, E, F, G, H, I, J
-  GroundSpoof:
-    A, B
-  IMove:
-    A
-  Inventory:
-    A, B
-  Jesus:
-    A, B
-  Jump:
-    A, B, C
-  KeepAlive:
-    A
-  KillAura:
-  A, B
-  
-  OmniSprint:
-    A
-  Reach:
-    A, B, C
-  Scaffold:
-    A 
-  SlimeJump:
-    A
-  Speed:
-    A, B, C
-  Step:
-    A
-  Timer:
-    A
-  Tower:
-    A
-  WallHit:
-    A
+I hope you relish the experience AriseAntiCheat brings to your Minecraft world. Don't forget the essentials: ensure both PacketAPI and AriseAC are snugly placed in your plugins folder. Without them, the anticheat won't spread its protective wings.
+
+Feel free to harness the power of PacketAPI, but if you extend its use beyond personal boundaries, a simple nod in the form of proper credits would be appreciated.
+
+*Both plugins gracefully support the /reload command.*
+
+## Supported Checks
+
+### Aim
+- A
+
+### AutoClicker
+- A, B, C
+
+### Criticals
+- A
+
+### FastStair
+- A
+
+### Flight
+- A, B, C, D, E, F, G, H, I, J
+
+### GroundSpoof
+- A, B
+
+### IMove
+- A
+
+### Inventory
+- A, B
+
+### Jesus
+- A, B
+
+### Jump
+- A, B, C
+
+### KeepAlive
+- A
+
+### KillAura
+- A, B
+
+### OmniSprint
+- A
+
+### Reach
+- A, B, C
+
+### Scaffold
+- A
+
+### SlimeJump
+- A
+
+### Speed
+- A, B, C
+
+### Step
+- A
+
+### Timer
+- A
+
+### Tower
+- A
+
+### WallHit
+- A
