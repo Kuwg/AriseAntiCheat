@@ -1,4 +1,4 @@
-# AriseAntiCheat - Guardian of Minecraft
+# Arise 2.0 - Free Minecraft Anti Cheat
 
 Welcome to AriseAntiCheat, your reliable Minecraft companion armed with checks to maintain order on your server!
 
