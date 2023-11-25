@@ -11,3 +11,49 @@ I hope you find my creation enjoyable—a small masterpiece in its own right! Pl
 
 
 *Both the plugins support /reload command.
+
+Current supported checks:
+
+  Aim:
+    A
+  AutoClicker:
+    A, B, C
+  Criticals:
+    A
+  FastStair:
+    A
+  Flight:
+    A, B, C, D, E, F, G, H, I, J
+  GroundSpoof:
+    A, B
+  IMove:
+    A
+  Inventory:
+    A, B
+  Jesus:
+    A, B
+  Jump:
+    A, B, C
+  KeepAlive:
+    A
+  KillAura:
+  A, B
+  
+  OmniSprint:
+    A
+  Reach:
+    A, B, C
+  Scaffold:
+    A 
+  SlimeJump:
+    A
+  Speed:
+    A, B, C
+  Step:
+    A
+  Timer:
+    A
+  Tower:
+    A
+  WallHit:
+    A
