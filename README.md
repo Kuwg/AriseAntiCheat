@@ -8,3 +8,6 @@ You have the flexibility to configure enabled checks, violations, and determine 
 Based on my testing, every instance of flight triggers a flag. However, there's a lack of a ground speed check, as creating one would be time-consuming, and my current focus is on school commitments.
 
 I hope you find my creation enjoyable—a small masterpiece in its own right! Please remember to place both PacketAPI and AriseAC in the plugins folder; otherwise, the anticheat won't function correctly. You are free to use PacketAPI, but if utilized for purposes other than personal use, kindly provide proper credits.
+
+
+*Both the plugins support /reload command.
