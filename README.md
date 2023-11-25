@@ -86,4 +86,4 @@ And if you decide to play with PacketAPI outside your personal space, toss some 
 ### WallHit
 - A
 
-_If you find any issue please post them on "issues"_
+_If you find any issue please post it: https://github.com/Kuwg/AriseAntiCheat/issues/new_
