@@ -1,9 +1,10 @@
 # AriseAntiCheat
 Minecraft Anticheat with many checks developed!
 
-It's a really extensive anticheat, but it's obfuscated (for now at least) because it took really long to make and I don't want peoples to steal my code.
-It's still fully free and there's no "pro" version.
-You can configure enabled checks, violations and decide if you want to make a check punishable or not, but for now that's all, in the future I might add more configs but it's not in my plans. 
-As far as I tested it, there is no flight that doesn't flag, but it lacks of a ground speed check since it'd take long to make and I'm busy with school.
-I hope you enjoy my little masterpiece!
-Remember to put both PacketAPI & AriseAC in the plugins folder, either it won't work, and you are free to use my PacketAPI but give me the credits if you want to use it anywhere that's not for personal use.
+It's a highly comprehensive anticheat, albeit currently obfuscated, primarily due to the extensive time investment in its development. I'm cautious about code theft, hence the obfuscation—for now, at least. The anticheat remains entirely free, with no "pro" version available.
+
+You have the flexibility to configure enabled checks, violations, and determine whether a check should result in punishment. However, as of now, that's the extent of the customization options. While I may consider adding more configurations in the future, it's not currently part of my plans.
+
+Based on my testing, every instance of flight triggers a flag. However, there's a lack of a ground speed check, as creating one would be time-consuming, and my current focus is on school commitments.
+
+I hope you find my creation enjoyable—a small masterpiece in its own right! Please remember to place both PacketAPI and AriseAC in the plugins folder; otherwise, the anticheat won't function correctly. You are free to use PacketAPI, but if utilized for purposes other than personal use, kindly provide proper credits.
