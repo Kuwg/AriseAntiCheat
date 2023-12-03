@@ -19,6 +19,10 @@ Enjoy using AriseAntiCheat! Don't forget the basics: place both PacketAPI and Ar
 
 And if you decide to play with PacketAPI outside your personal space, toss some credits our way. It's the respectful thing to do.
 
+## SetBack
+
+This plugin has a 'setback' system, where it cancel packets, and if the cancelled packets are too many Spigot itself does it's thing and teleports back the player.
+
 *Both plugins are compatible with the /reload command.*
 
 ## Supported Checks
